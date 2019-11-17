@@ -1,1 +1,0 @@
-# Personel-Bilgi-Otomasyonu
